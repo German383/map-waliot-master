@@ -1,0 +1,18 @@
+.carsItemWrapper {
+    border-bottom: 1px solid #adadada9;
+}
+
+.carsItem {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+   }
+
+.carsItemWrapper:hover {
+    cursor: pointer;
+}
+   
+p, h4, h3 {
+    margin: 5px;
+}
